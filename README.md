@@ -15,7 +15,7 @@
 ![flowchart-image](https://github.com/iwamoto65/github-images/raw/main/mahjong-data-viewer-flowchart.png)
 
 ### 補足事項
-外部サービス「雀魂」を使用したサービスであることを踏まえ、chrome web storeでの不特定多数への公開を控えております。（公式の許可が取れ次第公開を検討します）  
+外部サービス「雀魂」を使用したサービスであることを踏まえ、chrome web storeでの不特定多数への公開を控えております。
 「雀魂」アカウントをお持ちの方はコードをダウンロードし、拡張機能ページ(chrome://extensions/) でファイルをアップロードすることで利用できます。詳細は「拡張機能を使うためには」をご覧ください。
 
 ### 拡張機能を使うためには
