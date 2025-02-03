@@ -1,5 +1,5 @@
 ### 概要
-本プロジェクトはオンライン麻雀ゲーム「[雀魂](https://mahjongsoul.com)」の牌譜を取得するためのGoogle拡張機能です。
+本サービスはオンライン麻雀ゲーム「[雀魂](https://mahjongsoul.com)」の牌譜を取得するためのGoogle拡張機能です。
 また、※1 データ閲覧専用サイトと連携しており、専用サイトで取得したデータを詳細に見ることができます。
 ![data-viewer-image](https://github.com/iwamoto65/github-images/raw/main/mahjong-data-viewer-page.png)
 
